@@ -23,16 +23,45 @@ puanlanacaktır, isimlendirme kurallarına dikkat ediniz. Listeleme işlemleri s
 yapılmalı.(70 PUAN)
 • Maven projesi oluşturun.
 • Maven komutlarını çalıştırıp, çıktıyı ekleyin
+
+#### Clean
+````
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------------< org.example:hwork1 >-------------------------
+[INFO] Building hwork1 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ hwork1 ---
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.246 s
+[INFO] Finished at: 2022-06-15T22:44:53+03:00
+[INFO] ------------------------------------------------------------------------
+````
+#### Validate
 ````
 ````
+#### Compile
 ````
 ````
+#### Test
 ````
 ````
+#### Package
 ````
 ````
+#### Verify
 ````
 ````
+#### Install
+````
+````
+#### Site
+````
+````
+#### Deploy
 ````
 ````
 • Tüm müşterileri listeleyin
