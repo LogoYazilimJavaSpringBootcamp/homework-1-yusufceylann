@@ -1,8 +1,18 @@
 # Homework-1
 
-1. Java’nın platform bağımsızlığını nasıl sağladığını anlatınız.(5 PUAN)
-2. Java neden çoklu kalıtımı desteklemez? Hangi diller bu duruma neden izin verir? (5 PUAN)
-3. Build Tool nedir? Java ekosistemindeki toollar neler?
+### 1. Java’nın platform bağımsızlığını nasıl sağladığını anlatınız.(5 PUAN)
+
+Java bir kere yaz her yerde çalışsın mottosu ile çalışıyor. C - C# gibi diller makinenin işletim 
+sisteminde derlendiği için platform bağımlılardır.  Fakat Java JVM(Java Virtual Machine) üzerinden çalışmaktadır. 
+Bu sayede platformdan bağımsız olarak aynı bytecode'u üretir. Bu sayede de istediğimiz platformda 
+çalıştırabilmemizi sağlar. Burada dezavantaj hız olarak karşımıza çıkmaktadır. Bunun nedeni işletim 
+sistemi ile birlikte Virtual Machine'in de bilgisayarın kaynaklarını kullanmasıdır.
+
+
+### 2. Java neden çoklu kalıtımı desteklemez? Hangi diller bu duruma neden izin verir? (5 PUAN)
+Karmaşıklığı azaltmak ve dili basitleştirmek için çoklu kalıtım desteklenmez. 
+
+### 3. Build Tool nedir? Java ekosistemindeki toollar neler?
 4. Collection framework içerisindeki
 yapıları örnekleyip açıklayınız. (20 PUAN)
 5. Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği bir uygulama
@@ -13,6 +23,18 @@ puanlanacaktır, isimlendirme kurallarına dikkat ediniz. Listeleme işlemleri s
 yapılmalı.(70 PUAN)
 • Maven projesi oluşturun.
 • Maven komutlarını çalıştırıp, çıktıyı ekleyin
+````
+````
+````
+````
+````
+````
+````
+````
+````
+````
+````
+````
 • Tüm müşterileri listeleyin
 • Yeni Müşteri oluşturabilen
 • İçerisinde ‘C’ harfi olan müşterileri listeleyin
