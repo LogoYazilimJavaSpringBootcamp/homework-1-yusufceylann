@@ -13,9 +13,9 @@ sistemi ile birlikte Virtual Machine'in de bilgisayarın kaynaklarını kullanma
 Karmaşıklığı azaltmak ve dili basitleştirmek için çoklu kalıtım desteklenmez. 
 
 ### 3. Build Tool nedir? Java ekosistemindeki toollar neler?
-4. Collection framework içerisindeki
+### 4. Collection framework içerisindeki
 yapıları örnekleyip açıklayınız. (20 PUAN)
-5. Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği bir uygulama
+### 5. Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği bir uygulama
 yazın. Final, static, overload, override, constructor, kalıtım, polimorfizim, encapsulation, List, Set,
 Map kavramlarını kullanılmalıdır. Sisteme eklemeler yapabilirsiniz. Main method üzerinde
 çalışması yeterlidir. SOLID prensiplerine uygun olarak yazmaya çalışınız. Kod kalitesi
